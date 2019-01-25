@@ -38,6 +38,8 @@ public class JavaPrimitiveTypes {
         
         //https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
         //https://cs.fit.edu/~ryan/java/language/java-data.html
+        
+        //changes
     }
     
 }
